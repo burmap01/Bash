@@ -10,4 +10,3 @@ read -p "prefix to add to 1.txt? " pref
 # change the name of "1.txt" adding to it the prefix choosen by the user
 mv 1.txt ${pref}1.txt
 
-# create a script that create an executable script whose name is decided by the user
